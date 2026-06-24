@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Carteira de Ações",
+  "description": "Dashboard interativo de alta fidelidade para análise de múltiplos, cotações e distribuição de carteira pessoal de ações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
